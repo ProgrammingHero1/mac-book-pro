@@ -1,3 +1,3 @@
 # mac-book-pro
-### [Assignment private repo link](https://classroom.github.com/a/E9h_8Kef)
-#### Click this link: https://classroom.github.com/a/E9h_8Kef
+
+## This private repo link is no longer available. If you want to work on this project, use your own public repo
